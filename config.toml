@@ -1,0 +1,55 @@
+## Basic Configuration
+
+baseurl = "https://alberto-nava.com"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Alberto Nava"
+title = "Alberto Nava"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+googleAnalytics = "XYZ"
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Alberto Nava"
+intro = "Enzyme Designer"
+description = "PhD Student at UC Berkeley"
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Personal website for Alberto Nava"
+keywords = "engineer,chemistry,protein,design,enzyme,biology,automation"
+
+## Social Accounts
+[params.social]
+github = "Alberto024"
+linkedin = "AlbertoANava"
+strava = "Alberto-Nava"
+
+## Extras
+[params.extra]
+copyright = "© 2022 Alberto Nava [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
+poweredby = false
+highlightjs = true
+socialmarkup = true
+toc = true
+displayrssicon = false
+
+## Main Menu
+[[menu.main]]
+    name = "about"
+    identifier = "about"
+    weight = 200
+    url = "/about/"
