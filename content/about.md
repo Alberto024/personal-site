@@ -11,7 +11,8 @@ synthetic biology, automation, and machine learning.
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before
 pursuing a PhD at the University of California, Berkeley 
 advised by [Jay Keasling](https://keaslinglab.lbl.gov/people/#principal-investigator).
-I have been generously supported by a [NSF GRFP](https://www.nsfgrfp.org/) and [GEM Fellowship](https://www.gemfellowship.org/).
+I have been generously supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
+and [GEM Fellowship](https://www.gemfellowship.org/).
 
 Outside of the lab, I'm very into powerlifting and exploring nature.
 
