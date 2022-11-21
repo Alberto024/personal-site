@@ -1,0 +1,17 @@
+{{ with .Site.Menus.main }}
+<header>
+  <div id="topNav">
+    <nav class="main-nav">
+      <ul>
+        <li class="page-collection"><a href="/">Home</a></li>
+        {{ range sort . }}
+        <li class="page-collection">
+          <a href="{{ .URL }}">{{ .Name }}</a>
+        </li>
+        {{ end }}
+      </ul>
+      <div class="page-divider"></div>
+    </nav>
+  </div>
+</header>
+{{ end }}

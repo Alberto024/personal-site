@@ -5,6 +5,8 @@ draft: false
 showpagemeta: false
 ---
 
+## About
+
 I'm a protein engineer at the [Joint Bioenergy Institute](https://www.jbei.org/) working on the interface between
 synthetic biology, automation, and machine learning.
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before

@@ -92,3 +92,68 @@ button:hover .circle .icon.arrow {
 button:hover .menu-item-text {
   color: #fcfcfc;
 }
+
+#topNav {
+  padding-top: 20px;
+}
+
+#topNav nav,
+#topNav ul,
+#topNav li {
+  display: inline-block;
+  line-height: 1.6em;
+}
+
+#topNav nav {
+  float: left;
+  width: 100%;
+  text-align: center;
+  font-family: "Lato", sans-serif;
+  font-size: 14px;
+}
+
+#topNav nav > ul {
+  padding: 0 30px;
+  width: auto;
+  margin: auto;
+}
+
+#topNav nav ul {
+  text-transform: uppercase;
+  letter-spacing: 2px;
+  list-style: none;
+  list-style-image: none;
+  background-color: #fcfcfc;
+}
+
+.page-divider {
+  line-height: 1.6em;
+  margin-top: -1.6em;
+  margin-bottom: 1.6em;
+  font-size: 8px;
+  border-bottom: 2px solid #ddd;
+}
+
+#topNav nav li:not(.filter) + li {
+  margin-left: 30px;
+}
+
+#topNav a {
+  color: #999;
+}
+
+#topNav ul > li > a {
+  border-bottom-color: transparent;
+  border-bottom-width: 2px;
+  border-bottom-style: solid;
+}
+
+#topNav ul > li.active-page > a {
+  color: #111;
+  border-bottom-color: #ddd;
+}
+
+#topNav a:hover {
+  color: #444;
+  border-bottom-color: #ddd;
+}
