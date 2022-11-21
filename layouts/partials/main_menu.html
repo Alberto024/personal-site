@@ -1,0 +1,12 @@
+{{ with .Site.Menus.main }}
+<section id="main-menu-pane" class="text-center main-menu">
+  {{ range sort . }}
+  <button class="menu-item" onclick="location.href='{{ .URL }}'" type="button">
+    <span class="circle" aria-hidden="true">
+      <span class="icon arrow"></span>
+    </span>
+    <span class="menu-item-text">{{ .Name }}</span>
+  </button>
+  {{ end }}
+</section>
+{{ end }}

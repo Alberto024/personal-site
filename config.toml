@@ -51,4 +51,4 @@ displayrssicon = false
     name = "about"
     identifier = "about"
     weight = 200
-    url = "/about/"
+    url = "/about"
