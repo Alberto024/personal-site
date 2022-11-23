@@ -157,3 +157,7 @@ button:hover .menu-item-text {
   color: #444;
   border-bottom-color: #ddd;
 }
+
+div.content {
+  color: #555 !important;
+}
