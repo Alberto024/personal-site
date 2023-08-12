@@ -3,6 +3,7 @@ title: "About"
 date: 2022-10-17T14:11:16-07:00
 draft: false
 showpagemeta: false
+toc: false
 ---
 
 ## About
@@ -25,7 +26,7 @@ Checkout my resume here: [AlbertoNava_Resume.pdf](/docs/AlbertoNava_Resume.pdf)
 
 {{< rawhtml >}}
 <ol reversed>
-  <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Klass, S.; Keiser, L.; Dan, Q.; Katz, L.; Yuzawa, S.; Keasling, J. D. Biosensor Guided Polyketide Synthases Engineering for Optimization Optimization of Domain Exchange Boundaries. <i>Nature Communications</i> <b>2023</b>. <a href="https://doi.org/10.1038/s41467-023-40464-x">10.1038/s41467-023-40464-x</a>
+  <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Klass, S.; Keiser, L.; Dan, Q.; Katz, L.; Yuzawa, S.; Keasling, J. D. Biosensor Guided Polyketide Synthases Engineering for Optimization of Domain Exchange Boundaries. <i>Nature Communications</i> <b>2023</b>. <a href="https://doi.org/10.1038/s41467-023-40464-x">10.1038/s41467-023-40464-x</a>
   </li>
   <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Lechner, A.; Deng, K.; Jocic, R.; Lin, Y.; Roberts, J.; Benites, V.; Kakumanu, R.; Gin, J.; Chen, Y.; Liu, Y.; Petzold, C.; Baidoo, E.; Northen, T.; Adams, P.; Katz, L.; Yuzawa, S.; Keasling, J. D. Expanding Extender Substrate Selection for Unnatural Polyketide Biosynthesis by Acyltransferase Domain Exchange within a Modular Polyketide Synthase. <i>Journal of the American Chemical Society</i> <b>2023</b>. <a href="https://doi.org/10.1021/jacs.2c11027">10.1021/jacs.2c11027</a>
   </li>
