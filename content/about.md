@@ -18,14 +18,13 @@ and [GEM Fellowship](https://www.gemfellowship.org/).
 
 Outside of the lab, I'm very into powerlifting, exploring nature, and hanging with my dog.
 
-## Resume
-
-Checkout my resume here: [AlbertoNava_Resume.pdf](/docs/AlbertoNava_Resume.pdf)
-
 ## Publications
 
 {{< rawhtml >}}
+
 <ol reversed>
+  <li>Schmidt, M.; Lee, N.; Zhan, C.; Roberts, J. B.; <b>Nava, A. A.</b>; Keiser, L. S.; Vilchez, A. A.; Chen, Y.; Petzold, C. J.; Haushalter, R. W.; Blank, L. M.; Keasling, J. D. Maximizing Heterologous Expression of Engineered Type I Polyketide Synthases: Investigating Codon Optimization Strategies. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00367">10.1021/acssynbio.3c00367</a>
+  </li>
   <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Klass, S.; Keiser, L.; Dan, Q.; Katz, L.; Yuzawa, S.; Keasling, J. D. Biosensor Guided Polyketide Synthases Engineering for Optimization of Domain Exchange Boundaries. <i>Nature Communications</i> <b>2023</b>. <a href="https://doi.org/10.1038/s41467-023-40464-x">10.1038/s41467-023-40464-x</a>
   </li>
   <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Lechner, A.; Deng, K.; Jocic, R.; Lin, Y.; Roberts, J.; Benites, V.; Kakumanu, R.; Gin, J.; Chen, Y.; Liu, Y.; Petzold, C.; Baidoo, E.; Northen, T.; Adams, P.; Katz, L.; Yuzawa, S.; Keasling, J. D. Expanding Extender Substrate Selection for Unnatural Polyketide Biosynthesis by Acyltransferase Domain Exchange within a Modular Polyketide Synthase. <i>Journal of the American Chemical Society</i> <b>2023</b>. <a href="https://doi.org/10.1021/jacs.2c11027">10.1021/jacs.2c11027</a>
