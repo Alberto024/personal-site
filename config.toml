@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Alberto Nava"
-intro = "Enzyme Designer"
-description = "PhD Student at UC Berkeley"
+intro = "Protein Designer"
+description = "@ Science Corporation"
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
@@ -48,7 +48,7 @@ displayrssicon = false
 
 ## Main Menu
 [[menu.main]]
-    name = "about"
-    identifier = "about"
-    weight = 200
-    url = "/about"
+name = "about"
+identifier = "about"
+weight = 200
+url = "/about"

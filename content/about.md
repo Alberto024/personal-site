@@ -23,6 +23,8 @@ Outside of the lab, I'm very into powerlifting, exploring nature, and hanging wi
 {{< rawhtml >}}
 
 <ol reversed>
+  <li><b>Nava, A. A.</b>; Roberts, J. B.; Haushalter, R. W.; Wang, Z.; Keasling, J. D. Module-Based Polyketide Synthase Engineering for <i>de Novo</i> Polyketide Biosynthesis. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00282">10.1021/acssynbio.3c00282</a>
+  </li>
   <li>Schmidt, M.; Lee, N.; Zhan, C.; Roberts, J. B.; <b>Nava, A. A.</b>; Keiser, L. S.; Vilchez, A. A.; Chen, Y.; Petzold, C. J.; Haushalter, R. W.; Blank, L. M.; Keasling, J. D. Maximizing Heterologous Expression of Engineered Type I Polyketide Synthases: Investigating Codon Optimization Strategies. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00367">10.1021/acssynbio.3c00367</a>
   </li>
   <li>Englund, E.; Schmidt, M.; <b>Nava, A. A.</b>; Klass, S.; Keiser, L.; Dan, Q.; Katz, L.; Yuzawa, S.; Keasling, J. D. Biosensor Guided Polyketide Synthases Engineering for Optimization of Domain Exchange Boundaries. <i>Nature Communications</i> <b>2023</b>. <a href="https://doi.org/10.1038/s41467-023-40464-x">10.1038/s41467-023-40464-x</a>
