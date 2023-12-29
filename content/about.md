@@ -23,6 +23,8 @@ Outside of the lab, I'm very into powerlifting, exploring nature, and hanging wi
 {{< rawhtml >}}
 
 <ol reversed>
+  <li>Pearson A. N.; Incha, M. R.; Ho, C. N.; Schmidt, M.; Roberts, J. B.; <b>Nava, A. N.</b>; Keasling, J. D. Characterization and Diversification of AraC/XylS Family Regulators Guided by Transposon Sequencing. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00441">10.1021/acssynbio.3c00441</a>
+  </li>
   <li>Garber, M. E.; Frank, V.; Kazakov, A. E.; Incha, M. R.; <b>Nava, A. A.</b>; Zhang, H.; Valencia, L. E.; Keasling, J. D.; Rajeev, L.; Mukhopadhyay, A. REC protein family expansion by the emergence of a new signaling pathway. <i>MBio</i> <b>2023</b>. <a href="https://doi.org/10.1128/mbio.02622-23">10.1128/mbio.02622-23</a>
   </li>
   <li><b>Nava, A. A.</b>; Fear, A. L.; Lee. N; Mellinger, P.; Lan, G.; McCauley, J.; Tan, S.; Kaplan, N.; Goyal, G.; Coates, R. C.; Roberts, J. B.; Johnson, Z.; Hu, R.; Wu, B.; Ahn, J.; Kim, W. E.; Wan, Y.; Yin, K.; Hillson, N.; Haushalter, R. W.; Keasling, J. D. Automated Platform for the Plasmid Construction Process. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00292">10.1021/acssynbio.3c00292</a>
@@ -41,7 +43,3 @@ Outside of the lab, I'm very into powerlifting, exploring nature, and hanging wi
   </li>
 </ol>
 {{< /rawhtml >}}
-
-## Contact
-
-I can be reached at _alberto_nava at berkeley dot edu_.
