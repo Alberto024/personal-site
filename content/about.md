@@ -23,6 +23,8 @@ Outside of the lab, I'm very into powerlifting, exploring nature, and hanging wi
 {{< rawhtml >}}
 
 <ol reversed>
+  <li>Roberts, J. B.*; <b>Nava, A. A.*</b>; Pearson, A. N.; Incha, M. R.; Valencia, L. E.; Ma, M.; Rao, A.; Keasling, J. D. Foldy: An open-source web application for interactive protein structure analysis. <i>PLOS Computational Biology</i> <b>2024</b>. <a href="https://doi.org/10.1371/journal.pcbi.1011171">10.1371/journal.pcbi.1011171</a>
+  </li>
   <li>Pearson A. N.; Incha, M. R.; Ho, C. N.; Schmidt, M.; Roberts, J. B.; <b>Nava, A. A.</b>; Keasling, J. D. Characterization and Diversification of AraC/XylS Family Regulators Guided by Transposon Sequencing. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00441">10.1021/acssynbio.3c00441</a>
   </li>
   <li>Garber, M. E.; Frank, V.; Kazakov, A. E.; Incha, M. R.; <b>Nava, A. A.</b>; Zhang, H.; Valencia, L. E.; Keasling, J. D.; Rajeev, L.; Mukhopadhyay, A. REC protein family expansion by the emergence of a new signaling pathway. <i>mBio</i> <b>2023</b>. <a href="https://doi.org/10.1128/mbio.02622-23">10.1128/mbio.02622-23</a>
@@ -42,4 +44,5 @@ Outside of the lab, I'm very into powerlifting, exploring nature, and hanging wi
   <li>Cruz-Morales, P.; Yin, K.; Landera, A.; Cort, J. R.; Young, R. P.; Kyle, J. E.; Bertrand, R.; Iavarone, A. T.; Acharya, S.; Cowan, A.; Chen, Y.; Gin, J. W.; Scown, C. D.; Petzold, C. J.; Araujo-Barcelos, C.; Sundstrom, E.; George, A.; Liu, Y.; Klass, S.; <b>Nava, A. A.</b>; Keasling, J. D. Biosynthesis of Polycyclopropanated High Energy Biofuels. <i>Joule</i> <b>2022</b>. <a href="https://doi.org/10.1016/j.joule.2022.05.011">10.1016/j.joule.2022.05.011</a>
   </li>
 </ol>
+<small>*Co-First Author</small>
 {{< /rawhtml >}}
