@@ -11,7 +11,7 @@ toc: false
 I'm a protein designer at [Science](https://science.xyz/) working to engineer better proteins for our [biohybrid neural interface](https://science.xyz/news/biohybrid-neural-interfaces/). I am passionate about using proteins for improving human health and environmental sustainability, and I love working at the interface between
 synthetic biology and machine learning!
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before
-earning a PhD at the University of California, Berkeley
+receiving a PhD at the University of California, Berkeley
 advised by [Jay Keasling](https://keaslinglab.lbl.gov/people/#principal-investigator). I was previously at the [Joint Bioenergy Institute](https://www.jbei.org/) engineering polyketide synthases to produce biofuels and bioproducts.
 My work has been generously supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
 and [GEM Fellowship](https://www.gemfellowship.org/).
