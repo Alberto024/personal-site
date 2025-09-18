@@ -13,7 +13,7 @@ synthetic biology and machine learning!
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before
 receiving a PhD at the University of California, Berkeley
 advised by [Jay Keasling](https://keaslinglab.lbl.gov/people/#principal-investigator). I was previously at the [Joint Bioenergy Institute](https://www.jbei.org/) engineering polyketide synthases to produce biofuels and bioproducts.
-My work has been previously been supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
+My work has previously been supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
 and [GEM Fellowship](https://www.gemfellowship.org/).
 
 Outside of the lab, I like lifting weights, exploring nature, and hanging with my dog.
