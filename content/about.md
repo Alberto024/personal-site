@@ -8,12 +8,12 @@ toc: false
 
 ## About
 
-I'm a protein designer at [Science](https://science.xyz/) working to engineer better proteins for our [biohybrid neural interface](https://science.xyz/news/biohybrid-neural-interfaces/). I am passionate about using proteins for improving human health and environmental sustainability, and I love working at the interface between
+I'm a protein designer at [Science](https://science.xyz/) working to engineer better [proteins](https://science.xyz/news/new-frontiers-in-optogenetic-research/) for our [biohybrid neural interface](https://science.xyz/news/biohybrid-neural-interfaces/). I am passionate about using proteins for improving human health and environmental sustainability, and I love working at the interface between
 synthetic biology and machine learning!
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before
 receiving a PhD at the University of California, Berkeley
 advised by [Jay Keasling](https://keaslinglab.lbl.gov/people/#principal-investigator). I was previously at the [Joint Bioenergy Institute](https://www.jbei.org/) engineering polyketide synthases to produce biofuels and bioproducts.
-My work has been generously supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
+My work has been previously been supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
 and [GEM Fellowship](https://www.gemfellowship.org/).
 
 Outside of the lab, I like lifting weights, exploring nature, and hanging with my dog.
@@ -23,6 +23,8 @@ Outside of the lab, I like lifting weights, exploring nature, and hanging with m
 {{< rawhtml >}}
 
 <ol reversed>
+  <li>Tose, A. J.; <b>Nava, A. A.</b>; McGrath, S. N.; Mardinly, A. R.; Naka, A. WAChRs are excitatory opsins sensitive to indoor lighting. <i>bioRxiv</i> <b>2025</b>. <a href="https://doi.org/10.1101/2025.09.12.675947">10.1101/2025.09.12.675947</a>
+  </li>
   <li>Roberts, J. B.*; <b>Nava, A. A.*</b>; Pearson, A. N.; Incha, M. R.; Valencia, L. E.; Ma, M.; Rao, A.; Keasling, J. D. Foldy: An open-source web application for interactive protein structure analysis. <i>PLOS Computational Biology</i> <b>2024</b>. <a href="https://doi.org/10.1371/journal.pcbi.1011171">10.1371/journal.pcbi.1011171</a>
   </li>
   <li>Pearson A. N.; Incha, M. R.; Ho, C. N.; Schmidt, M.; Roberts, J. B.; <b>Nava, A. A.</b>; Keasling, J. D. Characterization and Diversification of AraC/XylS Family Regulators Guided by Transposon Sequencing. <i>ACS Synthetic Biology</i> <b>2023</b>. <a href="https://doi.org/10.1021/acssynbio.3c00441">10.1021/acssynbio.3c00441</a>
