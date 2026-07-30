@@ -22,7 +22,7 @@ Outside of the lab, I like lifting weights, exploring nature, and hanging with m
 
 {{< rawhtml >}}
 
-<ol reversed>
+<ol reversed style="font-size: 0.8em;">
   <li>Wang, Z.; Cheong, S.; Wang, H.; Demarteau, J.; Epstein, A. R.; Bose, B.; Hu, W.; Schmidt, M.; Keiser, L.; Zhao, M.; Ge, B.; <b>Nava, A. A.</b>; Kakumanu, R.; Baidoo, E. E. K.; Chen, Y.; Petzold, C. J.; Guo, Y.; Nawa, R. B.; Vora, N.; Nordahl, S. L.; Liu, Y.; Ghanta, R.; Cruz-Morales, P.; Yin, K.; Haushalter, R. W.; Persson, K. A.; Scown, C. D.; Helms, B. A.; Keasling, J. D. Engineered polyketide synthases enable a microbial chassis for recyclable plastics with tunable properties. <i>Nature Biotechnology</i> <b>2026</b>. <a href="https://doi.org/10.1038/s41587-026-03229-7">10.1038/s41587-026-03229-7</a>
   </li>
   <li>Tose, A. J.; <b>Nava, A. A.</b>; McGrath, S. N.; Mardinly, A. R.; Naka, A. WAChRs are excitatory opsins sensitive to indoor lighting. <i>bioRxiv</i> <b>2025</b>. <a href="https://doi.org/10.1101/2025.09.12.675947">10.1101/2025.09.12.675947</a>
