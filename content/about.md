@@ -11,7 +11,7 @@ toc: false
 I'm a protein designer at [Science](https://science.xyz/) working to engineer better [proteins](https://science.xyz/news/new-frontiers-in-optogenetic-research/) for our [biohybrid neural interface](https://science.xyz/news/biohybrid-neural-interfaces/). I am passionate about using proteins for improving human health and environmental sustainability, and I love working at the interface between
 synthetic biology and machine learning!
 I received a B.S. in chemical engineering and applied math at the University of Nevada, Reno before
-receiving a PhD at the University of California, Berkeley
+doing a PhD at the University of California, Berkeley
 advised by [Jay Keasling](https://keaslinglab.lbl.gov/people/#principal-investigator). I was previously at the [Joint Bioenergy Institute](https://www.jbei.org/) engineering polyketide synthases to produce biofuels and bioproducts.
 My work has previously been supported by a [McNair Fellowship](https://mcnairscholars.com/), [NSF GRFP](https://www.nsfgrfp.org/),
 and [GEM Fellowship](https://www.gemfellowship.org/).
@@ -23,6 +23,8 @@ Outside of the lab, I like lifting weights, exploring nature, and hanging with m
 {{< rawhtml >}}
 
 <ol reversed>
+  <li>Wang, Z.; Cheong, S.; Wang, H.; Demarteau, J.; Epstein, A. R.; Bose, B.; Hu, W.; Schmidt, M.; Keiser, L.; Zhao, M.; Ge, B.; <b>Nava, A. A.</b>; Kakumanu, R.; Baidoo, E. E. K.; Chen, Y.; Petzold, C. J.; Guo, Y.; Nawa, R. B.; Vora, N.; Nordahl, S. L.; Liu, Y.; Ghanta, R.; Cruz-Morales, P.; Yin, K.; Haushalter, R. W.; Persson, K. A.; Scown, C. D.; Helms, B. A.; Keasling, J. D. Engineered polyketide synthases enable a microbial chassis for recyclable plastics with tunable properties. <i>Nature Biotechnology</i> <b>2026</b>. <a href="https://doi.org/10.1038/s41587-026-03229-7">10.1038/s41587-026-03229-7</a>
+  </li>
   <li>Tose, A. J.; <b>Nava, A. A.</b>; McGrath, S. N.; Mardinly, A. R.; Naka, A. WAChRs are excitatory opsins sensitive to indoor lighting. <i>bioRxiv</i> <b>2025</b>. <a href="https://doi.org/10.1101/2025.09.12.675947">10.1101/2025.09.12.675947</a>
   </li>
   <li>Roberts, J. B.*; <b>Nava, A. A.*</b>; Pearson, A. N.; Incha, M. R.; Valencia, L. E.; Ma, M.; Rao, A.; Keasling, J. D. Foldy: An open-source web application for interactive protein structure analysis. <i>PLOS Computational Biology</i> <b>2024</b>. <a href="https://doi.org/10.1371/journal.pcbi.1011171">10.1371/journal.pcbi.1011171</a>
