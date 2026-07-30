@@ -3,7 +3,7 @@
 baseurl = "https://alberto-nava.com"
 builddrafts = false
 canonifyurls = false
-languageCode = "en-US"
+locale = "en-US"
 
 contentdir = "content"
 layoutdir = "layouts"
@@ -41,7 +41,7 @@ linkedin = "AlbertoANava"
 [params.extra]
 copyright = "© 2022-2026 Alberto Nava [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)"
 poweredby = false
-highlightjs = true
+highlightjs = false
 socialmarkup = true
 toc = true
 displayrssicon = false
